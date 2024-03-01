@@ -1,1 +1,18 @@
-[   {"key":"123","value":"Alternativ 1"},{"key":"456","value":"Alternativ 2"},{"key":"789","value":"Alternativ 3"}]
+[
+    {
+        "key": "1",
+        "value": "Afghan- Svensk Vänskapsförening"
+    },
+    {
+        "key": "2",
+        "value": "Afghansk Kulturförening"
+    },
+    {
+        "key": "3",
+        "value": "Afghanska Ungdoms kultur och idrottsförening"
+    },
+    {
+        "key": "4",
+        "value": "Afghanskt Akademiskt Kulturcentrum"
+    }
+]
